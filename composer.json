@@ -9,5 +9,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.3"
+    }
 }
