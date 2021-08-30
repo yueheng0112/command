@@ -1,0 +1,13 @@
+{
+    "name": "yueheng0112/command",
+    "description": "命令行执行",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fangzhongyi",
+            "email": "2522968417@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
